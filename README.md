@@ -1,4 +1,4 @@
-# AI_LAB 🧬
+# AI LAB 🧬
 
 This repository contains the work done in the context of the AILAB 2022, held at Bocconi University. The project was awarded with the first price. 
 
